@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: krishashokk/akpub
 spec:
-  type: other
+  type: openapi
   lifecycle: experimental
   owner: abc
   security: public
