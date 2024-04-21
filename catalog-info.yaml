@@ -1,9 +1,10 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: API
 metadata:
-  name: aktest
+  name: akpub
   annotations:
-    github.com/project-slug: krishashokk/aktest
+    github.com/project-slug: krishashokk/akpub
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
+  owner: abc
