@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: aktest
+  annotations:
+    github.com/project-slug: krishashokk/aktest
+spec:
+  type: other
+  lifecycle: unknown
