@@ -8,6 +8,7 @@ spec:
   type: other
   lifecycle: experimental
   owner: abc
+  security: public
   definition: |
     openapi: "3.0.0"
     info:
