@@ -16,6 +16,7 @@ spec:
       title: Artist API
       license:
         name: MIT
+      security: public
     servers:
       - url: http://artist.spotify.net/v1
     paths:
